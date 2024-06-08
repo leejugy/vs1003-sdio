@@ -1,0 +1,12 @@
+../Core/Src/main.c:126:6:HAL_UART_RxCpltCallback	24	static
+../Core/Src/main.c:183:6:uart_send	76	static
+../Core/Src/main.c:195:10:SCI_Read	24	static
+../Core/Src/main.c:221:6:SCI_Write	24	static
+../Core/Src/main.c:244:6:SDI_Send	24	static
+../Core/Src/main.c:252:6:vs1003_init	16	static
+../Core/Src/main.c:314:6:SD_file_info	344	static
+../Core/Src/main.c:339:6:decoder_control	8	static
+../Core/Src/main.c:372:6:sd_user	24	static
+../Core/Src/main.c:425:5:main	8	static
+../Core/Src/main.c:484:6:SystemClock_Config	88	static
+../Core/Src/main.c:534:6:Error_Handler	4	static,ignoring_inline_asm

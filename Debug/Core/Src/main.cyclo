@@ -1,0 +1,12 @@
+../Core/Src/main.c:126:6:HAL_UART_RxCpltCallback	21
+../Core/Src/main.c:183:6:uart_send	2
+../Core/Src/main.c:195:10:SCI_Read	2
+../Core/Src/main.c:221:6:SCI_Write	2
+../Core/Src/main.c:244:6:SDI_Send	2
+../Core/Src/main.c:252:6:vs1003_init	11
+../Core/Src/main.c:314:6:SD_file_info	4
+../Core/Src/main.c:339:6:decoder_control	13
+../Core/Src/main.c:372:6:sd_user	11
+../Core/Src/main.c:425:5:main	2
+../Core/Src/main.c:484:6:SystemClock_Config	3
+../Core/Src/main.c:534:6:Error_Handler	1
